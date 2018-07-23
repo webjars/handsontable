@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>handsontable</artifactId>
-    <version>5.0.0</version>
+    <version>5.0.1-SNAPSHOT</version>
     <name>Handsontable</name>
     <description>WebJar for Handsontable</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/handsontable</url>
         <connection>scm:git:https://github.com/webjars/handsontable.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/handsontable.git</developerConnection>
-        <tag>handsontable-5.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>

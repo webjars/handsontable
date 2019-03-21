@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>handsontable</artifactId>
-    <version>6.0.1-SNAPSHOT</version>
+    <version>6.2.2-SNAPSHOT</version>
     <name>Handsontable</name>
     <description>WebJar for Handsontable</description>
     <url>http://webjars.org</url>
